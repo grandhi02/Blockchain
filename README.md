@@ -10,3 +10,6 @@ This project will:
 1. Fetch Ethereum transaction data (or any EVM-based blockchain).
 2. Analyze transaction patterns, gas usage, and wallet balances.
 3. Visualize these patterns using Python libraries like Matplotlib and Pandas
+
+Requirements can be installed using - pip install web3 matplotlib pandas requests
+
